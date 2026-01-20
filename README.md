@@ -30,4 +30,33 @@ This application allows users to manage daily tasks efficiently by creating, upd
 
 ><img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/8ec445f7-540f-4af6-89e8-64daf6820068" />
 
+---
+
+## ⚙️ How It Works
+
+1. User enters a task and clicks **Add**
+2. Tasks are displayed in a list with:
+   - Checkbox (Completed / Pending)
+   - Edit option
+   - Delete option
+3. Completed tasks are visually differentiated
+4. Task data is stored in **localStorage**, so it remains after page refresh
+
+---
+
+## 🧠 Key Learnings
+
+- JavaScript DOM manipulation
+- Event handling
+- State management using localStorage
+- Building user-friendly UI with pure JavaScript
+- Deploying static websites using Netlify
+
+---
+
+## 📦 Installation & Setup (Local)
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/AmolShinde035/TodoApp.git
 
